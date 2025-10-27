@@ -1,0 +1,4 @@
+Method,Exact Match (%),Within ±4 (%),Avg NMI,Avg SSIM,Avg Time (s),Samples
+Method 2 (ORB),95.3,98.5,1.445,0.795,1.35,675
+Method 2 (SIFT),70.2,72.3,1.262,0.682,6.11,675
+Method 5 (ORB Enhanced),95.3,98.5,1.445,0.795,1.64,675
